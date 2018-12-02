@@ -1,0 +1,18 @@
+
+New IA-Blocks session (12/2/2018 21:42:36): 
+Uncaught TypeError: Cannot read property 'stop_drag' of null
+file:///home/daoos/Desktop/ai_platform/AI-Blocks/Sources/src/index.html At line: 32
+Uncaught TypeError: Cannot read property 'stop_drag' of null
+file:///home/daoos/Desktop/ai_platform/AI-Blocks/Sources/src/index.html At line: 32
+Uncaught TypeError: Cannot read property 'stop_drag' of null
+file:///home/daoos/Desktop/ai_platform/AI-Blocks/Sources/src/index.html At line: 32
+Uncaught TypeError: Cannot read property 'stop_drag' of null
+file:///home/daoos/Desktop/ai_platform/AI-Blocks/Sources/src/index.html At line: 32
+Uncaught TypeError: Cannot read property 'stop_drag' of null
+file:///home/daoos/Desktop/ai_platform/AI-Blocks/Sources/src/index.html At line: 32
+Uncaught TypeError: Cannot read property 'stop_drag' of null
+file:///home/daoos/Desktop/ai_platform/AI-Blocks/Sources/src/index.html At line: 32
+Uncaught TypeError: Cannot read property 'stop_drag' of null
+file:///home/daoos/Desktop/ai_platform/AI-Blocks/Sources/src/index.html At line: 32
+Uncaught TypeError: Cannot read property 'stop_drag' of null
+file:///home/daoos/Desktop/ai_platform/AI-Blocks/Sources/src/index.html At line: 32
